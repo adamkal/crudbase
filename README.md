@@ -1,0 +1,4 @@
+crudbase
+========
+
+CRUD abstraction layer
